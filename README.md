@@ -1,5 +1,47 @@
 # Acme Web Banking
 
+Acme Web Banking is a fictional Svelte application for desktop banking. It presents balances, recent activity, and common self-service actions in a calm, modern interface.
+
+## Overview
+
+This repository now contains a minimal Svelte + Vite app that serves as the front end for Acme customers who prefer managing accounts in a browser.
+
+## Highlights
+
+- Single-page Svelte experience with a polished banking dashboard
+- Balance summary and recent activity panels
+- Responsive layout with a strong visual hierarchy
+- Simple foundation for future authentication and account integration
+
+## Project Stack
+
+- Svelte 4
+- Vite
+- TypeScript
+
+## Local Development
+
+Install dependencies and run the app with:
+
+1. `npm install`
+2. `npm run dev`
+
+Build the production bundle with:
+
+1. `npm run build`
+
+## Repository Layout
+
+- `src/` - Svelte application source
+- `index.html` - Vite entry document
+- `public/` - Static assets
+- `.github/workflows/` - Automation workflows
+
+## Contributors
+
+@peter-gregory
+@erlich-bachman# Acme Web Banking
+
 Acme Web Banking is the browser-based banking experience for customers who prefer to manage their accounts from a desktop or laptop browser.
 
 ## Overview
